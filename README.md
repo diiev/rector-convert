@@ -123,6 +123,8 @@ rector-convert/
 3. Проверьте, что файл Excel не защищен паролем
 4. Создайте issue в репозитории с описанием проблемы
 
+Скриншоты работы программы: 
+<img width="589" height="428" alt="image" src="https://github.com/user-attachments/assets/9aeea131-1fdf-45ca-9ea1-ac41d33abd3b" />
 
 
 Ссылка на проект: [https://github.com/your-username/rector-schedule-converter]
