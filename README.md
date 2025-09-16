@@ -128,10 +128,10 @@ rector-convert/
 <img width="502" height="435" alt="image" src="img/image.png" />
 
   <br>**Процесс обработки**<br>
-<img width="589" height="428" alt="image" src="img/image1.png" /> 
+<img width="589" height="428" alt="image" src="img/image-1.png" /> 
 
    <br>**Сформированный pdf-файл**<br>
-<img width="706" height="657" alt="image" src="img/image2.png" />
+<img width="706" height="657" alt="image" src="img/image-2.png" />
 
 
 
