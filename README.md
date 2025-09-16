@@ -124,13 +124,13 @@ rector-convert/
 4. Создайте issue в репозитории с описанием проблемы
 
 ## Скриншоты работы программы: 
-Главное окно программы
+   Главное окно программы
 <img width="502" height="435" alt="image" src="https://github.com/user-attachments/assets/2bbd293d-f67c-407e-8fbc-7daadb38ce2d" />
 
-Процесс обработки
+   Процесс обработки
 <img width="589" height="428" alt="image" src="https://github.com/user-attachments/assets/9aeea131-1fdf-45ca-9ea1-ac41d33abd3b" /> 
 
-Сформированный pdf-файд
+   Сформированный pdf-файд
 <img width="706" height="657" alt="image" src="https://github.com/user-attachments/assets/cfa35396-217e-4e04-815e-2cae7cccafcf" />
 
 
