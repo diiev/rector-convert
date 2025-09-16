@@ -15,8 +15,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/rector-schedule-converter.git
-cd rector-schedule-converter
+git clone https://github.com/diiev/rector-convert.git
+cd rector-convert
 ```
 
 2. Установите зависимости:
@@ -61,7 +61,7 @@ python main.py
 ## 📁 Структура проекта
 
 ```
-rector-schedule-converter/
+rector-convert/
 │
 ├── main.py              # Главный файл для запуска приложения
 ├── gui.py               # Графический интерфейс пользователя
@@ -123,11 +123,9 @@ rector-schedule-converter/
 3. Проверьте, что файл Excel не защищен паролем
 4. Создайте issue в репозитории с описанием проблемы
 
-## 📞 Контакты
 
-Ваше имя - [your-email@example.com](mailto:your-email@example.com)
 
-Ссылка на проект: [https://github.com/your-username/rector-schedule-converter](https://github.com/your-username/rector-schedule-converter)
+Ссылка на проект: [https://github.com/your-username/rector-schedule-converter]
 
 ---
 
