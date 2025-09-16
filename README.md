@@ -125,17 +125,17 @@ rector-convert/
 
 ## Скриншоты работы программы: 
 <br>**Главное окно программы**<br>
-<img width="502" height="435" alt="image" src="https://github.com/user-attachments/assets/2bbd293d-f67c-407e-8fbc-7daadb38ce2d" />
+<img width="502" height="435" alt="image" src="img/image.png" />
 
   <br>**Процесс обработки**<br>
-<img width="589" height="428" alt="image" src="https://github.com/user-attachments/assets/9aeea131-1fdf-45ca-9ea1-ac41d33abd3b" /> 
+<img width="589" height="428" alt="image" src="img/image1.png" /> 
 
    <br>**Сформированный pdf-файл**<br>
-<img width="706" height="657" alt="image" src="https://github.com/user-attachments/assets/cfa35396-217e-4e04-815e-2cae7cccafcf" />
+<img width="706" height="657" alt="image" src="img/image2.png" />
 
 
 
-Ссылка на проект: [https://github.com/your-username/rector-schedule-converter]
+Ссылка на exeш-ник(готовую программу): [https://github.com/your-username/rector-schedule-converter]
 
 ---
 
