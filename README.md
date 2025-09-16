@@ -135,7 +135,7 @@ rector-convert/
 
 
 
-Ссылка на exeш-ник(готовую программу): [dist/main.exe]
+Ссылка на exeш-ник(готовую программу): [https://github.com/diiev/rector-convert/blob/main/dist/main.exe]
 
 ---
 
