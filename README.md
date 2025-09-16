@@ -135,7 +135,7 @@ rector-convert/
 
 
 
-Ссылка на exeш-ник(готовую программу): [https://github.com/your-username/rector-schedule-converter]
+Ссылка на exeш-ник(готовую программу): [dist/main.exe]
 
 ---
 
